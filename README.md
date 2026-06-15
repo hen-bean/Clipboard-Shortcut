@@ -1,5 +1,6 @@
 # Clipboard-Shortcut
 Simple clipboard history function using shortcuts on iOS
+
 -----------------------------------------[IMPORTANT!!!!!!] [SET UP]
 Before activating the shortcut, create a new contact with the first name "Clipboard". After creation do not edit the contact again. 
 ---------------------------------------
