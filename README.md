@@ -1,5 +1,5 @@
 # Clipboard-Shortcut
-Simple clipboard history function using shortcuts on iOS
+Simple clipboard history function using shortcuts on iOS. (TEXT ONLY)
 
 -----------------------------------------
 
